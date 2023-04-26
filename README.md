@@ -17,4 +17,4 @@ It's a interactive and easy to use calculator that can solve math operations in 
 ![react-project3-3](https://user-images.githubusercontent.com/78876044/230970554-9f553df2-730e-4890-a669-a7a065761f94.png)
 
 # Link
-The site can be visited on GitHub pages on the following URL: https://jsvela749.github.io/freecodecamp-react-course-project2/
+The site can be visited on GitHub pages on the following URL: https://jsvela749.github.io/freecodecamp-react-course-project3/
