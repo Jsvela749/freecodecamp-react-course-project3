@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/freecodecamp-react-course-project3/static/css/main.f9791adb.css",
+    "main.js": "/freecodecamp-react-course-project3/static/js/main.905dacda.js",
+    "static/media/freecodecamp-logo.png": "/freecodecamp-react-course-project3/static/media/freecodecamp-logo.5486935b905c7949600c.png",
+    "index.html": "/freecodecamp-react-course-project3/index.html",
+    "main.f9791adb.css.map": "/freecodecamp-react-course-project3/static/css/main.f9791adb.css.map",
+    "main.905dacda.js.map": "/freecodecamp-react-course-project3/static/js/main.905dacda.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9791adb.css",
+    "static/js/main.905dacda.js"
+  ]
+}
